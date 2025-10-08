@@ -1,0 +1,623 @@
+{
+  "mappings": {
+    "Ancient Elven Book": [
+      ":item_ancientelvenbook:",
+      ":Ag_ancientelvenbook:"
+    ],
+    "Ancient Rod": [
+      ":item_ancientrod:"
+    ],
+    "Bananas": [
+      ":Ag_bananas:"
+    ],
+    "Berserker Ring": [
+      ":berserkerring:"
+    ],
+    "Birch Log": [
+      ":Ag_birchlog:"
+    ],
+    "Birthday Wood": [
+      ":birthdaywood:"
+    ],
+    "Blessed Eternal Sacrifice": [
+      ":BES:"
+    ],
+    "Blessed Sacrifice": [
+      ":blessedsacrifice:"
+    ],
+    "Blue Santa Hat": [
+      ":Ag_BlueSanta:",
+      ":blue_santahat:"
+    ],
+    "Blueberries": [
+      ":Ag_blueberry:"
+    ],
+    "Book of Death": [
+      ":item_bookofdeath:"
+    ],
+    "Book of Necromancy": [
+      ":item_bookofnecromancy:"
+    ],
+    "Boots of Feroxi": [
+      ":feroxi_boots:",
+      ":item_bootsofferoxi:"
+    ],
+    "Bow of Eggcellence": [
+      ":Ag_BowOfEggcellence:",
+      ":bowofeggcellence:"
+    ],
+    "Bow of Kynosian": [
+      ":bow_of_kynosian:",
+      ":kyno_bow:",
+      "kyno bow"
+    ],
+    "Candy Cane Scythe": [
+      ":candy_cane_scythe:"
+    ],
+    "Cauldron": [
+      ":Ag_cauldron:",
+      ":cauldron:",
+      ":item_cauldron:"
+    ],
+    "Chefs hat": [
+      ":chefshat:",
+      "chef hat",
+      "chef's hat"
+    ],
+    "Chestnut Log": [
+      ":Ag_chestnutlog:"
+    ],
+    "Chicken Knife": [
+      ":item_chickenknife:"
+    ],
+    "Clown Leggings": [
+      ":item_clownleggings:"
+    ],
+    "Clown Mask": [
+      ":item_clownmask:"
+    ],
+    "Clown Top": [
+      ":item_clowntop:"
+    ],
+    "Cog": [
+      ":NewCog:"
+    ],
+    "Cognium Ring": [
+      ":Cog_ring:"
+    ],
+    "Crown of Opulina": [
+      ":crownofopulina:"
+    ],
+    "Crystal Chest": [
+      ":item_crystalchest:"
+    ],
+    "Crystal Key": [
+      ":item_crystalkey:"
+    ],
+    "Dagger of Demeter": [
+      ":item_daggerofdemeter:"
+    ],
+    "Dark Star Arrow": [
+      ":item_darkstararrows:"
+    ],
+    "Dark Star Ore": [
+      ":item_darkstarore:",
+      "darkstar ore",
+      "dark star ore"
+    ],
+    "Death Princess Rune": [
+      ":Death_Rune:",
+      ":dpr:"
+    ],
+    "Divine Protection Scroll": [
+      ":DivineProtectionScroll:"
+    ],
+    "Drakes Compass": [
+      ":Ag_drakes_compass:",
+      ":item_drakescompass:"
+    ],
+    "Drakes Diary": [
+      ":item_drakesdiary:"
+    ],
+    "Eagles Nest": [
+      ":Ag_eagles_nest:"
+    ],
+    "Easter Bonnet": [
+      ":Ag_EasterBonnet:",
+      ":easterbonnet:"
+    ],
+    "Easter Egg": [
+      ":Ag_EasterEgg:",
+      ":easteregg:"
+    ],
+    "Egg Arrows": [
+      ":eggarrows:"
+    ],
+    "Eggplant": [
+      ":item_eggplant:"
+    ],
+    "Eggstravagant Bow": [
+      ":Ag_eggstravegant_bow:",
+      ":eggybow:"
+    ],
+    "Elder Log": [
+      ":Ag_elderlog:"
+    ],
+    "Elven Armour Fragment": [
+      ":item_elvenarmourfragment:"
+    ],
+    "Elven Arrows": [
+      ":item_elvenarrows:"
+    ],
+    "Elven Chest": [
+      ":item_elvenchest:"
+    ],
+    "Elven Crystal": [
+      ":item_elvencrystal:"
+    ],
+    "Elven Grace Potion": [
+      ":item_elvengracepotion:"
+    ],
+    "Elven Key": [
+      ":item_elvenkey:"
+    ],
+    "Elven Weapon Fragment": [
+      ":item_elvenweaponfragment:"
+    ],
+    "Emerald": [
+      ":Ag_emerald:"
+    ],
+    "Energy Overload Scroll": [
+      ":energy_overload_scroll:"
+    ],
+    "Eternal Ring": [
+      ":eternalring:"
+    ],
+    "Evergreen Log": [
+      ":Ag_evergreenlog:"
+    ],
+    "Extreme Energy Potion": [
+      ":eep:"
+    ],
+    "Extreme Luck Potion": [
+      ":elp:"
+    ],
+    "Extreme Power Stone": [
+      ":Ag_extremepowerstone:"
+    ],
+    "Fishing Boots": [
+      ":Ag_fishingboots:"
+    ],
+    "Fishing Gloves": [
+      ":Ag_fishinggloves:"
+    ],
+    "Fishing Hat": [
+      ":Ag_fishinghat:"
+    ],
+    "Fishing Top": [
+      ":Ag_fishingtop:"
+    ],
+    "Fishing Waders": [
+      ":Ag_fishingwaders:"
+    ],
+    "Flame Gloves": [
+      ":flamegloves:"
+    ],
+    "Friendship Gift": [
+      ":Ag_friendship_gift:",
+      ":Item_friendship_gift:",
+      ":friendshipgift:"
+    ],
+    "Ghostly Hood": [
+      ":Ag_ghostlyhood:"
+    ],
+    "Ghostly Top": [
+      ":Ag_ghostlytop:"
+    ],
+    "Ginkgo Log": [
+      ":Ag_ginkgolog:"
+    ],
+    "Gloves of Feroxi": [
+      ":glovesofferoxi:"
+    ],
+    "Goblin Cleaver": [
+      ":Ag_goblincleaver:",
+      "goblin cleaver"
+    ],
+    "Gold Bar": [
+      ":gold_bar:"
+    ],
+    "Gold Coin": [
+      ":goldcoin:"
+    ],
+    "Gold Ore": [
+      ":Ag_goldore:"
+    ],
+    "Golden Fishig Rod": [
+      ":Ag_goldenfishingrod:"
+    ],
+    "Golden Scarab": [
+      ":AG_goldenscarab:"
+    ],
+    "Golden Sunglasses": [
+      ":item_goldensunglasses:"
+    ],
+    "Grapes": [
+      ":Ag_grapes:"
+    ],
+    "Greaves of Feroxi": [
+      ":greavesofferoxi:"
+    ],
+    "Hatchet of Copina": [
+      ":Ag_hatchetofcopina:"
+    ],
+    "Hatchet of the Gods": [
+      ":Ag_hatchet_of_the_gods:",
+      "hatchet of god",
+      "hatchet of the gods"
+    ],
+    "Helm of Feroxi": [
+      ":helmofferoxi:"
+    ],
+    "Illuminant Gem": [
+      ":illuminantgem:"
+    ],
+    "Invincibility Potion": [
+      ":invincibilitypotion:"
+    ],
+    "Iridium Ore": [
+      ":Ag_iridiumore:"
+    ],
+    "Iron Ore": [
+      ":Ag_iron_ore:",
+      ":item_ironore:"
+    ],
+    "Kings Chest": [
+      ":item_kingschest:"
+    ],
+    "Kings Key": [
+      ":item_kingskey:"
+    ],
+    "Kings Sword": [
+      ":item_kingssword:"
+    ],
+    "Knife of Copina": [
+      ":copinasknife:"
+    ],
+    "Kynosian Arrows": [
+      ":kynosian_arrows:",
+      "kyno arrows"
+    ],
+    "Kynosian Boots": [
+      ":kynosianboots:",
+      "kyno boots"
+    ],
+    "Kynosian Gloves": [
+      ":kynosiangloves:",
+      "kyno gloves"
+    ],
+    "Kynosian Hat": [
+      ":kynosianhat:",
+      "kyno hat"
+    ],
+    "Kynosian Legs": [
+      ":kynosianlegs:",
+      "kyno legs"
+    ],
+    "Kynosian Top": [
+      ":kynosiantop:",
+      "kyno top"
+    ],
+    "Lemon": [
+      ":Ag_lemon:",
+      ":item_lemon:"
+    ],
+    "Locker Key": [
+      ":lockerkey:"
+    ],
+    "Lumberjack Boots": [
+      ":Ag_lumberjack_boots:"
+    ],
+    "Lumberjack Gloves": [
+      ":Ag_lumberjack_gloves:"
+    ],
+    "Lumberjack Hat": [
+      ":Ag_lumberjack_hat:"
+    ],
+    "Lumberjack Legs": [
+      ":Ag_lumberjack_legs:"
+    ],
+    "Lumberjack Top": [
+      ":Ag_lumberjack_top:"
+    ],
+    "Magic Watering Can": [
+      ":item_magicwateringcan:"
+    ],
+    "Mahogany Log": [
+      ":Ag_mahoganylog:"
+    ],
+    "Marlin": [
+      ":Ag_marlin:"
+    ],
+    "Metal Detector": [
+      ":Ag_metaldetector:",
+      ":item_metaldetector:"
+    ],
+    "Miners Boots": [
+      ":Ag_minersboots:"
+    ],
+    "Miners Gloves": [
+      ":Ag_minersgloves:"
+    ],
+    "Miners Hat": [
+      ":Ag_minershat:"
+    ],
+    "Miners Legs": [
+      ":Ag_minerslegs:"
+    ],
+    "Miners Top": [
+      ":Ag_minerstop:"
+    ],
+    "Mithril Ore": [
+      ":Ag_mithrilore:"
+    ],
+    "Mystery Egg": [
+      ":item_mysteryegg:"
+    ],
+    "Mystic Bottoms": [
+      ":item_mysticbottoms:"
+    ],
+    "Mystic Dagger": [
+      ":item_mysticdagger:"
+    ],
+    "Mystic Robe": [
+      ":item_mysticrobe:"
+    ],
+    "Mystic Staff": [
+      ":Ag_mysticstaff:",
+      ":mysticstaff:",
+      ":item_mysticstaff:"
+    ],
+    "Necklace of Amaran": [
+      ":Ag_necklaceofamaran:",
+      ":necklace_of_amaran:"
+    ],
+    "Necklace of Restoration": [
+      ":Ag_necklaceofrestoration:",
+      ":necklace_of_restoration:",
+      "necklace of restoration"
+    ],
+    "Necromancer Greaves": [
+      ":necro_greaves:"
+    ],
+    "Necromancer Top": [
+      ":necro_top:"
+    ],
+    "Opulinas Robe Bottom": [
+      ":item_opulinasrobebottoms:",
+      ":opu_robebottoms:"
+    ],
+    "Opulinas Robe Top": [
+      ":item_opulinasrobetop:",
+      ":opu_robetop:"
+    ],
+    "Orange": [
+      ":Ag_orange:",
+      ":item_orange:"
+    ],
+    "Oven Gloves": [
+      ":Ag_ovengloves:",
+      ":item_ovengloves:"
+    ],
+    "Party Balloons": [
+      ":item_partyballoons:"
+    ],
+    "Pickaxe of Copina": [
+      ":Ag_pickaxeofcopina:"
+    ],
+    "Pickaxe of the Gods": [
+      ":pickaxe:"
+    ],
+    "Pink Sunglasses": [
+      ":Ag_pinksunglasses:",
+      ":sunglasses~1:"
+    ],
+    "Pirate Hat": [
+      ":pirate_hat:"
+    ],
+    "Plate of Feroxi": [
+      ":plateofferoxi:"
+    ],
+    "Pumpkin Pie Recipe Scroll": [
+      ":pumpkin_pie_recipe_scroll:"
+    ],
+    "Pumpkin Seed Scroll": [
+      ":pumpkin_seed_scroll:"
+    ],
+    "Queens sword": [
+      ":item_queenssword:",
+      "queens sword",
+      "queen sword"
+    ],
+    "Kings Armour Fragment": [
+      "king armour frag",
+      "king armour frags",
+      "kaf"
+    ],
+    "Kings Weapon Fragment": [
+      "king weapon frag",
+      "king weapon frags", 
+      "kwf"
+    ],
+    "Stone Tablets": [
+      "stone tablets",
+      "stone tablet"
+    ],
+    "Queens Greaves": [
+      "queens greaves",
+      "queen greaves"
+    ],
+    "Rabbits Foot": [
+      ":Ag_rabbits_foot:",
+      ":rabbitsfoot:",
+      "rabbit foot",
+      "rabbits foot"
+    ],
+    "Rams Skull": [
+      ":ram~1:"
+    ],
+    "Raw Squid": [
+      ":Ag_raw_squid:"
+    ],
+    "Ray": [
+      ":Ag_ray:"
+    ],
+    "Restoration Fragment 1": [
+      ":fragment_1:"
+    ],
+    "Restoration Fragment 2": [
+      ":fragment_2:"
+    ],
+    "Restoration Fragment 3": [
+      ":fragment_3:"
+    ],
+    "Restoration Fragment 4": [
+      ":fragment_4:"
+    ],
+    "Restoration Fragment 5": [
+      ":fragment_5:"
+    ],
+    "Ring Fragments": [
+      ":Ag_ringfragments:",
+      ":ringfragments:"
+    ],
+    "Ring of Cognium": [
+      ":Ag_cogring:",
+      ":Cog_ring~1:",
+      "cog ring"
+    ],
+    "Ring of Death": [
+      ":ringofdeath:",
+      "rod"
+    ],
+    "Ring of Life": [
+      ":ringoflife:",
+      "ring of life",
+      "rol",
+      "rings"
+    ],
+    "Ring of Renewal": [
+      ":Ag_ring_of_renewal:"
+    ],
+    "Ring of Souls": [
+      ":ring_of_souls:",
+      "ring of souls"
+    ],
+    "Ring of Speed": [
+      ":ringofspeed:",
+      "ring of speed"
+    ],
+    "Rod of Anuket": [
+      ":Ag_rod_of_anuket:"
+    ],
+    "Rusty Axe": [
+      ":Ag_RustyAxe:"
+    ],
+    "Rusty Pickaxe": [
+      ":Ag_RustyPick:",
+      "rusty pickaxe",
+      "rusty pick"
+    ],
+    "Safflower": [
+      "safflower"
+    ],
+    "Sage Leaf": [
+      "sageleaf",
+      "sage leaf"
+    ],
+    "Sandalwood Log": [
+      ":item_sandalwoodlog:"
+    ],
+    "Sapphire": [
+      ":Ag_sapphire:"
+    ],
+    "Scythe of Aurial": [
+      ":item_scytheofaurial:",
+      ":scytheofaurial:"
+    ],
+    "Scythe of Demeter": [
+      ":Ag_Scythe:"
+    ],
+    "Shadow Armour Fragment": [
+      ":item_shadowarmourfragment:"
+    ],
+    "Shadow Weapon Fragment": [
+      ":item_shadowweaponfragment:"
+    ],
+    "Shark": [
+      ":Ag_shark:"
+    ],
+    "Shield of Amaran": [
+      ":Ag_shieldofamaran:",
+      ":shield_of_amaran:"
+    ],
+    "Shield of Feroxi": [
+      ":Ag_shieldofferoxi:",
+      ":feroxi_shield:",
+      "Feroxi Shield",
+      "feroxi shield"
+    ],
+    "Skull Shield": [
+      ":skull_shield:"
+    ],
+    "Soul Reaper Boots": [
+      ":Ag_soulreaperboots:"
+    ],
+    "Soul Reaper Gloves": [
+      ":Ag_soulreapergloves:"
+    ],
+    "Soul Reaper Helm": [
+      ":Ag_soulreaperhelm:"
+    ],
+    "Soul Reaper Legs": [
+      ":Ag_soulreaperlegs:"
+    ],
+    "Soul Reaper Sword": [
+      ":Ag_soulreapersword:"
+    ],
+    "Soul Reaper Top": [
+      ":Ag_soulreapertop:"
+    ],
+    "Spade": [
+      ":spade:"
+    ],
+    "Staff of Skulls": [
+      ":skull_staff:"
+    ],
+    "Sword of Cognium": [
+      ":Cog_Sword:",
+      ":cogniumsword:"
+    ],
+    "Sword of Eggcellence": [
+      ":swordofeggcellence:"
+    ],
+    "Sword of Feroxi": [
+      ":Ag_swordofferoxi:"
+    ],
+    "Teddy Bear": [
+      ":teddybear:"
+    ],
+    "Thieving Gloves": [
+      ":thievinggloves:"
+    ],
+    "Wings of Cognium": [
+      ":cogniumwings:"
+    ],
+    "Wood": [
+      ":wood~1:"
+    ],
+    "Wooden Stick": [
+      ":woodenstick:"
+    ]
+  }
+}
