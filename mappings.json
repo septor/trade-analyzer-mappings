@@ -2,7 +2,8 @@
   "mappings": {
     "Ancient Elven Book": [
       ":item_ancientelvenbook:",
-      ":Ag_ancientelvenbook:"
+      ":Ag_ancientelvenbook:",
+      "aeb"
     ],
     "Ancient Rod": [
       ":item_ancientrod:"
@@ -37,7 +38,8 @@
       ":birthdaywood:"
     ],
     "Blessed Eternal Sacrifice": [
-      ":BES:"
+      ":BES:",
+      "eternal bsac mats"
     ],
     "Blessed Sacrifice": [
       ":blessedsacrifice:"
@@ -59,7 +61,8 @@
     ],
     "Boots of Feroxi": [
       ":feroxi_boots:",
-      ":item_bootsofferoxi:"
+      ":item_bootsofferoxi:",
+      "feroxi boots"
     ],
     "Bow of Eggcellence": [
       ":Ag_BowOfEggcellence:",
@@ -117,6 +120,12 @@
     ],
     "Crystal Key": [
       ":item_crystalkey:"
+    ],
+    "Crystal Chest Set": [
+      "crystal chest set",
+      "crystal chest sets", 
+      "crystal set",
+      "crystal sets"
     ],
     "Dagger of Demeter": [
       ":item_daggerofdemeter:"
@@ -187,6 +196,10 @@
     "Elder Log": [
       ":Ag_elderlog:"
     ],
+    "Elven Armour Set": [
+      "elven armor set",
+      "elven armour set"
+    ],
     "Elven Armour Fragment": [
       ":item_elvenarmourfragment:",
       "elven armor frag",
@@ -225,6 +238,12 @@
     ],
     "Elven Key": [
       ":item_elvenkey:"
+    ],
+    "Elven Chest Set": [
+      "elven chest set",
+      "elven chest sets",
+      "elven set",
+      "elven sets"
     ],
     "Elven Plate": [
       ":item_elvenplate:"
@@ -372,10 +391,19 @@
       ":item_ironore~1:"
     ],
     "Kings Chest": [
-      ":item_kingschest:"
+      ":item_kingschest:",
+      "king chest"
     ],
     "Kings Key": [
       ":item_kingskey:"
+    ],
+    "Kings Chest Set": [
+      "kings chest set",
+      "kings chest sets",
+      "king chest set", 
+      "king chest sets",
+      "kings set",
+      "king set"
     ],
     "Kings Sword": [
       ":item_kingssword:"
@@ -567,6 +595,10 @@
     "Pumpkin Seed Scroll": [
       ":pumpkin_seed_scroll:"
     ],
+    "Queens Chest Set": [
+      "queens chest set",
+      "queen chest set"
+    ],
     "Queens Sword": [
       ":item_queenssword:",
       "queens sword",
@@ -581,6 +613,9 @@
       "king weapon frag",
       "king weapon frags", 
       "kwf"
+    ],
+    "Stethoscope of Copina": [
+      ":stethoscope:"
     ],
     "Stone Tablets": [
       "stone tablets",
@@ -611,19 +646,24 @@
       ":Ag_ray:"
     ],
     "Restoration Fragment 1": [
-      ":fragment_1:"
+      ":fragment_1:",
+      "rf1"
     ],
     "Restoration Fragment 2": [
-      ":fragment_2:"
+      ":fragment_2:",
+      "rf2"
     ],
     "Restoration Fragment 3": [
-      ":fragment_3:"
+      ":fragment_3:",
+      "rf3"
     ],
     "Restoration Fragment 4": [
-      ":fragment_4:"
+      ":fragment_4:",
+      "rf4"
     ],
     "Restoration Fragment 5": [
-      ":fragment_5:"
+      ":fragment_5:",
+      "rf5"
     ],
     "Ring Fragments": [
       ":Ag_ringfragments:",
@@ -766,8 +806,12 @@
     "Thieving Gloves": [
       ":thievinggloves:"
     ],
+    "Wine": [
+      "wine"
+    ],
     "Wings of Cognium": [
-      ":cogniumwings:"
+      ":cogniumwings:",
+      "cog wings"
     ],
     "Wood": [
       ":wood~1:"
